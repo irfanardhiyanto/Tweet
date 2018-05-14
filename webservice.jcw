@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>webservice</label>
+	</settings>
+	<users>
+		<user>
+			<path>webservice.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>webservice.jcp</path>
+		</project>
+	</projects>
+</workspace>
